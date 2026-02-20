@@ -35,7 +35,7 @@ Vivamus interdum **efficitur mauris**, et dignissim velit egestas vitae. Cras di
 Pellentesque eu laoreet dui.
 Praesent congue, eros eget accumsan euismod, lorem dui vulputate leo, tincidunt efficitur risus metus ut risus.
 
-{% include figure.html img="uidaho-workshop.jpg" alt="workshop scene" caption="Make sure participants are on the same page!" width="75%" %}
+{% include figure.html img="edinburgh-placeholder.svg" alt="workshop scene" caption="Make sure participants are on the same page!" width="75%" %}
 
 > Sed pharetra ipsum orci, eu cursus turpis semper egestas. 
 > Pellentesque sodales, felis auctor auctor rutrum, velit quam interdum erat, sit amet placerat urna nisl at justo.
