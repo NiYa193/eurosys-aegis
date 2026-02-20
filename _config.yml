@@ -27,10 +27,10 @@ repo: "https://github.com/NiYa193/eurosys-aegis"
 #
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: 
+url: https://niya193.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: 
+baseurl:  eurosys-aegis
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
