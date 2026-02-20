@@ -4,7 +4,7 @@ title: Home
 
 # Workshop Template!
 
-{% include figure.html img="edinburgh-placeholder.svg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="aegis-banner.png" alt="intro image here" caption="Library workshop" width="75%" %}
 
 A minimal Jekyll theme for creating workshop websites.
 
